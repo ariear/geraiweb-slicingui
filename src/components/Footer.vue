@@ -8,9 +8,9 @@
       </div>
       </div>
       <div class="flex items-center mt-4 md:mt-0">
-          <img src="/asset/facebook-black.png" alt="">
-          <img src="/asset/twitter-black.png" class="mx-8" alt="">
-          <img src="/asset/instagram-black.png" alt="">
+          <img src="/asset/Facebook-black.png" alt="">
+          <img src="/asset/Twitter-black.png" class="mx-8" alt="">
+          <img src="/asset/Instagram-black.png" alt="">
       </div>
   </footer>
   <footer class="font-pupylinux bg-[#4DAAE9] text-white py-4 px-7 xl:px-0">

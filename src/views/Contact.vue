@@ -20,9 +20,9 @@
               </div>
 
               <div class="flex items-center mt-10">
-                  <img src="/asset/facebook.png" alt="">
-                  <img src="/asset/twitter.png" class="mx-4" alt="">
-                  <img src="/asset/instagram.png" alt="">
+                  <img src="/asset/Facebook.png" alt="">
+                  <img src="/asset/Twitter.png" class="mx-4" alt="">
+                  <img src="/asset/Instagram.png" alt="">
               </div>
           </div>
           <!-- end box blue -->
