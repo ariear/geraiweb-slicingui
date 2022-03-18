@@ -2,7 +2,7 @@
   <div class="font-pupylinux bg-[url('/asset/kantor.png')] bg-cover bg-center pb-28" id="contact">
       <p class="text-center font-semibold text-4xl text-white pt-16">Contact Us</p>
 
-      <div class="bg-white w-[94vw] md:w-[700px] lg:w-[500px] xl:w-[700px] mx-auto mt-56 lg:mt-16 pt-40 lg:pt-12 pb-12 pl-16 pr-16 lg:pl-52 lg:pr-12 relative">
+      <div class="bg-white w-[94vw] md:w-[700px] lg:w-[500px] xl:w-[700px] mx-auto mt-56 lg:mt-16 pt-40 lg:pt-12 pb-12 pl-8 md:pl-16 md:pr-16 lg:pl-52 lg:pr-12 relative">
           <!-- box blue -->
           <div class="w-[300px] bg-[#00548C] px-8 py-5 absolute lg:-left-40 lg:top-14 lg:mx-0 rounded-md text-white left-0 -top-44 right-0 mx-auto">
               <p class="font-semibold text-lg">Contact information</p>
@@ -35,7 +35,7 @@
               <input type="text" name="name" placeholder="enter your name" class="border-b border-b-black px-3 font-light text-sm w-max pb-1">
           </div>
           <div class="flex flex-col">
-              <label for="name" class="text-[#227AFF] font-medium text-sm mb-1 lg:mt-7 xl:mt-0">Mobile Number</label>
+              <label for="name" class="text-[#227AFF] font-medium text-sm mb-1 mt-7 md:mt-0 lg:mt-7 xl:mt-0">Mobile Number</label>
               <input type="text" name="name" placeholder="enter mobile number" class="border-b border-b-black px-3 font-light text-sm w-max pb-1">
           </div>
           <div class="flex flex-col">
