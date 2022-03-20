@@ -9,7 +9,7 @@
     <!-- card -->
         <div class="w-[250px] shadow-md bg-white text-center relative overflow-hidden rounded-lg">
             <div class="w-[120%] h-[100px] absolute bg-[#0099FF] -rotate-6 -left-3 -top-7"></div>
-            <p class="font-semibold text-white text-2xl z-40 relative pt-5">BASIC</p>
+            <p class="font-semibold text-white text-2xl z-20 relative pt-5">BASIC</p>
             <p class="font-semibold text-[#363636] text-2xl mt-14">20k/<span class="text-base">Project</span></p>
             <div class="my-7 font-light">
                 <p>Responsive Web</p>
@@ -20,7 +20,7 @@
         </div>
         <div class="w-[250px] shadow-md bg-[#0099FF] text-center relative overflow-hidden rounded-lg mx-9 mt-9 md:mt-0">
             <div class="w-[120%] h-[70px] absolute top-0 bg-white rounded-b-[120%] -left-6"></div>
-            <p class="font-semibold text-[#0099FF] text-2xl z-40 relative pt-5">Standart</p>
+            <p class="font-semibold text-[#0099FF] text-2xl z-20 relative pt-5">Standart</p>
             <p class="font-semibold text-white text-2xl mt-14">20k/<span class="text-base">Project</span></p>
             <div class="my-7 font-light text-white">
                 <p>Responsive Web</p>
@@ -31,7 +31,7 @@
         </div>
         <div class="w-[250px] shadow-md bg-white text-center relative overflow-hidden rounded-lg mt-9 lg:mt-0">
             <div class="w-[120%] h-[100px] absolute bg-[#0099FF] -rotate-6 -left-3 -top-7"></div>
-            <p class="font-semibold text-white text-2xl z-40 relative pt-5">Premium</p>
+            <p class="font-semibold text-white text-2xl z-20 relative pt-5">Premium</p>
             <p class="font-semibold text-[#363636] text-2xl mt-14">1000000k/<span class="text-base">Project</span></p>
             <div class="my-7 font-light">
                 <p>Website And Deploy</p>
